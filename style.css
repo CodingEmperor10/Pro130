@@ -1,0 +1,31 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{ 
+font-size: larger;
+color: skyblue;
+margin: 0px;
+}
+
+.note
+{
+    font-size: 30px;
+    color: coral;
+}
+
+#danger_song_name
+{
+    font-size: 30px;
+    margin: 15px;
+}
+
+canvas
+{
+box-shadow: 12px 12px 12px 1px rgba(230, 203, 250, .2);
+border-radius : 25px;
+border : 9px solid whitesmoke;
+margin-top: 70px;
+}
